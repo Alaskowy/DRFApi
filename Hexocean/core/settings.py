@@ -47,6 +47,7 @@ INSTALLED_APPS = [
 
 INSTALLED_EXTENSIONS = [
     'api',
+    'core',
     'django_extensions',
 ]
 
